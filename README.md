@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:tahasaadat680@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/tahasaadat680"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/tahasaadat680/tahasaadat680/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 > Generated automatically by a GitHub Action — setup steps are at the bottom of this file.
@@ -56,24 +56,24 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tahasaadat680&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahasaadat680&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahasaadat680&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahasaadat680&theme=react-dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tahasaadat680&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true&layout=compact" alt="wakatime stats (optional, needs WakaTime setup)"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tahasaadat680&theme=tokyonight&hide_border=true&layout=compact" alt="wakatime stats (optional, needs WakaTime setup)"/>
 </p>
 
 <div align="center">
@@ -94,7 +94,7 @@ pie showData
 ### 📈 Contribution Activity (last 12 months)
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tahasaadat680&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 
 ---
@@ -155,10 +155,10 @@ pie showData
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=2EA0FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=tahasaadat680&label=Profile%20Views&color=2EA0FF&style=flat" />
 </p>
 
-<p align="center"><i>⭐️ From <a href="https://github.com/YOUR-GITHUB-USERNAME">Taha Saadat</a></i></p>
+<p align="center"><i>⭐️ From <a href="https://github.com/tahasaadat680">Taha Saadat</a></i></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2EA0FF&height=100&section=footer" />
 
@@ -167,7 +167,7 @@ pie showData
 <details>
 <summary>⚙️ How to enable the snake contribution animation (one-time setup)</summary>
 
-1. In your profile repo (`YOUR-GITHUB-USERNAME/YOUR-GITHUB-USERNAME`), create the folder `.github/workflows/`.
+1. In your profile repo (`tahasaadat680/tahasaadat680`), create the folder `.github/workflows/`.
 2. Add a file `snake.yml` with:
 
 ```yaml
@@ -187,7 +187,7 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: YOUR-GITHUB-USERNAME
+          github_user_name: tahasaadat680
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-contribution-grid-snake.svg
